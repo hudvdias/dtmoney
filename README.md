@@ -15,6 +15,11 @@ Projeto do módulo 02 do bootcamp Ignite - React da Rocketseat.
 - React Modal
 - React Hooks personalizados
 
+## Como rodar a aplicação
+
+1. Faça um clone do repositório na sua máquina.
+2. Execute o comando `yarn start` no terminal na pasta raiz do projeto.
+
 ---
 
 ✌
