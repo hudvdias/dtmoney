@@ -18,7 +18,9 @@ Projeto do módulo 02 do bootcamp Ignite - React da Rocketseat.
 ## Como rodar a aplicação
 
 1. Faça um clone do repositório na sua máquina.
-2. Execute o comando `yarn start` no terminal na pasta raiz do projeto.
+2. Execute o comando `yarn`na raiz do projeto para instalar as dependências.
+3. Execute o comando `yarn start` para rodar o projeto.
+4. Acesse http://localhost:3000/ para acessar a aplicação.
 
 ---
 
